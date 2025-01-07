@@ -1,44 +1,47 @@
-<h1 align="center" style="border: none;"> Hello Everyone, This is kdalton
+<div align="center">
+  <h1>👋 Hi, I'm Dalton Kimmerly</h1>
+  <h3>Senior Full Stack Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Data Specialist&nbsp;&nbsp;|&nbsp;&nbsp;AI Visionary</h3>
+</div>
 
-<h2  align="center" style="border: none;"> 💫 About Me </h2>
+## 🚀 Professional Overview
 
- <p  align="center">
-  - 🔭 Senior Full Stack Engineer with over 7 years</br>
-  - 👍 Ask me about Reactjs,Nextjs or any tech related stuff</br>
-  - 🌱 I’m looking to collaborate on open source projects</br>
-<br></br>
- </p>
+<div style="font-size: 1.1em">
+Senior Full Stack Engineer with extensive expertise in building scalable applications and processing complex data systems. I specialize in:
 
-<h2  align="center" style="border: none;"> 💻 Languages and Tools</h2>
+- 🔧 **Full Stack Development**
+  - Frontend: React, Vue.js, Next.js, TypeScript
+  - Backend: Python, Node.js, PHP, Java, Spring Boot
+  - Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+
+- 📊 **Data Engineering & Science**
+  - ETL Pipeline Development
+  - Data Warehousing: Snowflake, Amazon Redshift
+  - Big Data: Apache Spark, Hadoop
+  - Machine Learning Frameworks: TensorFlow, PyTorch
+  - BI Tools: Tableau, Power BI
+  
+</div>
+
+## 💻 Tech Stack
 
 <div style="margin-left: auto; margin-right: auto; width: fit-content">
   <table style="display: flex; align-items: flex-start; align: center">
     <tr>
       <td align="center" width="85">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="85">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
         <br>React
       </td>
       <td align="center" width="85">
-        <a href="#macropower-tech">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>Python
+          <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <br>Vue 3
       </td>
       <td align="center" width="85">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="85">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="85">
-          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-        <br>Webpack
-      </td>
-      <td align="center" width="85">
-          <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-        <br>GraphQL
+          <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+        <br>Angular
       </td>
       <td align="center" width="85">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -49,98 +52,110 @@
         <br>AWS
       </td>
       <td align="center" width="85">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-        <br>C#
+          <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+        <br>GCP
+      </td>
+      <td align="center" width="85">
+          <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+        <br>Azure
+      </td>
+      <td align="center" width="85">
+          <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+        <br>Vercel
       </td>
     </tr>
     <tr>
-      <td align="center" width="85"> 
-          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
+      <td align="center" width="85">
+          <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
       </td>
       <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>Github
-      </td>
-      <td align="center"  width="85">
-          <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
-      </td>
-      <td align="center"  width="85">
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+          <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+        <br>NestJS
       </td>
       <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
-      </td>
-      <td align="center"  width="85">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-        <br>Bootstrap
+          <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+        <br>Django
       </td>
       <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        <br>Tailwind
+          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="85">
+          <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="85">
+          <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+        <br>GraphQL
+      </td>
+      <td align="center" width="85">
+          <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <br>Redis
       </td>
       <td align="center" width="85">
           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
       <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-        <br>jQuery
-      </td>
-    </tr>
-  <tr>
-        <td align="center" width="85">
           <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
       </td>
-          <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-        <br>Nodejs
+    </tr>
+    <tr>
+      <td align="center" width="85">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
       </td>
-          <td align="center" width="85">
-          <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-        <br>Postman
+      <td align="center" width="85">
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
       </td>
-            <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
+      <td align="center" width="85">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/apachespark.svg" width="48" height="48" alt="Spark" />
+        <br>Spark
       </td>
-              <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-        <br>VsCode
+      <td align="center" width="85">
+          <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
+        <br>Snowflake
       </td>
-                <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-        <br>WordPress
+      <td align="center" width="85">
+          <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" height="48" alt="OpenAI" />
+          <br>OpenAI
       </td>
-                <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue
+      <td align="center" width="85">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" />
+          <br>HuggingFace
       </td>
-                <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-        <br>Sass
+      <td align="center" width="85">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pandas.svg" width="48" height="48" alt="Pandas" />
+        <br>Pandas
       </td>
-                <td align="center" width="85">
-          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
+      <td align="center" width="85">
+          <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter" />
+        <br>Jupyter
       </td>
-  </tr>
+      <td align="center" width="85">
+          <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/icon.svg" width="48" height="48" alt="MLflow" />
+        <br>MLflow
+      </td>
+    </tr>
   </table>
-
 </div>
 
-<br></br>
+## 📈 GitHub Statistics
 
 <div align="center">
-
-![Dev-of-Future's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kdalton0518&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
-
-![Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=kdalton0518&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
-
-![](https://readme-typing-svg.herokuapp.com/?lines=💥FullStack%20Developer💥;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kdalton0518&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdalton0518&theme=radical&hide_border=true&background=0D1117&date_format="/>
 </div>
+
+## 🤝 Let's Connect
+
+<div style="font-size: 1.1em">
+
+- 💼 Open for collaboration on innovative projects, especially in AI and LLM development
+- 📫 Reach out for Full Stack, Data Engineering, or AI/ML opportunities
+- 🌱 Always learning and exploring new technologies, with focus on LLMs, GPT models, and conversational AI
+
+</div
