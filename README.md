@@ -147,7 +147,7 @@ Senior Full Stack Engineer with extensive expertise in building scalable applica
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kdalton0518&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdalton0518&theme=radical&hide_border=true&background=0D1117&date_format="/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdalton0518&theme=radical&hide_border=true&background=0D1117"/>
 </div>
 
 ## 🤝 Let's Connect
