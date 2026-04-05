@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm PoPo</h1>
-  <h3>Senior Full Stack Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Data Specialist&nbsp;&nbsp;|&nbsp;&nbsp;AI Visionary</h3>
+  <h1>👋 Hi, I'm Michael</h1>
+  <h3>Senior AI Software Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Data Specialist&nbsp;&nbsp;|&nbsp;&nbsp;AI Visionary</h3>
 </div>
 
 ## 🚀 Professional Overview
